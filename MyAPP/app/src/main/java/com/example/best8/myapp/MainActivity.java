@@ -103,9 +103,9 @@ public class MainActivity extends AppCompatActivity {
                     }
 
 
-                    Collections.sort(arrayList, new Comparator(
+                    Collections.sort(arrayList, new Comparator<HashMap>(){
 
-                        public int compare(HashMap l, HashMap r) {
+                        public int compare(HashMap lhs, HashMap rhs) {
                             return ((String) lhs.get("power")).compareTo((String) rhs.get("power"));
                         }
                     });
