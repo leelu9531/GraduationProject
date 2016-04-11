@@ -1661,7 +1661,6 @@ containing a value of this type.
         public static final int line1=0x7f0c005d;
         public static final int line3=0x7f0c0061;
         public static final int listMode=0x7f0c0009;
-        public static final int listView1=0x7f0c0054;
         public static final int list_item=0x7f0c0028;
         public static final int media_actions=0x7f0c005b;
         public static final int middle=0x7f0c001b;
@@ -1706,13 +1705,14 @@ containing a value of this type.
         public static final int text=0x7f0c0062;
         public static final int text2=0x7f0c0060;
         public static final int textSpacerNoButtons=0x7f0c0034;
-        public static final int textView2=0x7f0c0056;
+        public static final int textStatus=0x7f0c0056;
         public static final int time=0x7f0c005e;
         public static final int title=0x7f0c002a;
         public static final int title_template=0x7f0c002f;
         public static final int topPanel=0x7f0c002e;
         public static final int up=0x7f0c0008;
         public static final int useLogo=0x7f0c0012;
+        public static final int wifiListView=0x7f0c0054;
         public static final int withText=0x7f0c0020;
         public static final int wrap_content=0x7f0c0013;
     }
