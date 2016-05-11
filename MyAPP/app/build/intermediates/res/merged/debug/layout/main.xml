@@ -11,7 +11,7 @@
     android:background="#ffffff">
 
     <ListView
-        android:id="@+id/wifiListView"
+        android:id="@+id/listView1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/startBtn"
@@ -20,7 +20,7 @@
     </ListView>
 
     <TextView
-        android:id="@+id/textStatus"
+        android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="WIFI Analysis"
@@ -46,9 +46,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="STOP"
-        android:background="@android:color/holo_red_dark"
-        android:layout_above="@+id/wifiListView"
-        android:layout_alignRight="@+id/wifiListView"
-        android:layout_alignEnd="@+id/wifiListView" />
+        android:layout_above="@+id/listView1"
+        android:layout_alignRight="@+id/listView1"
+        android:layout_alignEnd="@+id/listView1"
+        android:background="@android:color/holo_red_dark" />
 
 </RelativeLayout>
