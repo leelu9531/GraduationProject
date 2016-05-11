@@ -20,12 +20,12 @@
         "source": "D:\\NUTN\\GraduationProject\\MyAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_cut_material.png"
     },
     {
-        "merged": "D:\\AndroidStudio\\MyAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_go_search_api_material.png",
-        "source": "D:\\AndroidStudio\\MyAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_go_search_api_material.png"
-    },
-    {
         "merged": "D:\\AndroidStudio\\MyAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_ab_back_material.png",
         "source": "D:\\AndroidStudio\\MyAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_ab_back_material.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\MyAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_go_search_api_material.png",
+        "source": "D:\\AndroidStudio\\MyAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_go_search_api_material.png"
     },
     {
         "merged": "D:\\NUTN\\GraduationProject\\MyAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_radio_off_mtrl.png",
