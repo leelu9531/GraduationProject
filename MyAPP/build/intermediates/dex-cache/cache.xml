@@ -16,6 +16,13 @@
         <dex dex="D:\NUTN\GraduationProject\MyAPP\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_77c8dc5594a43bed11ac0d4e93874e2847ae68d8.jar" />
     </item>
     <item
+        jar="D:\NUTN\GraduationProject\MyAPP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="D:\NUTN\GraduationProject\MyAPP\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_8d07fbe96e2bcdea29b5c82a4953b17e7f832358.jar" />
+    </item>
+    <item
         jar="D:\NUTN\GraduationProject\MyAPP\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
@@ -42,13 +49,6 @@
         revision="23.0.2"
         sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
         <dex dex="D:\NUTN\GraduationProject\MyAPP\app\build\intermediates\pre-dexed\debug\httpcore-4.4.1_1545b9e777873e47c5bfde7dda73bba2fd7e50f6.jar" />
-    </item>
-    <item
-        jar="D:\NUTN\GraduationProject\MyAPP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="6e239441500605809818997dd63b62a947195f8c">
-        <dex dex="D:\NUTN\GraduationProject\MyAPP\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_8d07fbe96e2bcdea29b5c82a4953b17e7f832358.jar" />
     </item>
 
 </items>
