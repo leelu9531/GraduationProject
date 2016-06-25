@@ -22,7 +22,7 @@ public class connect {
     public void connect(){
         //connect with server
         try {
-            String uriAPI = "59.125.213.198";//php位置
+            String uriAPI = "http://59.125.213.198/collect.php";//php位置
             //HttpClient httpclient = new DefaultHttpClient();
             HttpPost httpRequest  = new HttpPost(uriAPI);
 
