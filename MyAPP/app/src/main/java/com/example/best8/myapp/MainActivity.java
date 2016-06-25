@@ -68,6 +68,9 @@ private int temp=0;
         /*check wifi turn on*/
         checkWifiState();
 
+        //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  <<這邊應該就會送資料了阿QQQQQQQQQQ
+        connect cn = new connect();
+        cn.toSendData();
 
         /*Start Btn clicked*/
         startBtn.setOnClickListener(new View.OnClickListener() {
@@ -130,7 +133,6 @@ private int temp=0;
                 });
 
                 // send the strong signal to server
-
 
 
 
